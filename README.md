@@ -3,17 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>JavaScript</b>
-  - [Place Holder]()
-- <b>SQL</b>
-  - [Place Holder]()
-- <b>BASH</b>
-  - [Place Holder]()
+  - [Grammer Checker/Filter](https://github.com/ParseTK/JS_practice/blob/main/JS_grammarChecker.js)
   - [Place Holder)]()
   - [Place Holder]()
   - [Place Holder)]()
 - <b>C# (.NET Applications)</b>
-  - [Place Holder]()
-  - [Place Holder]()
+  - [Book Rater](https://github.com/ParseTK/C_Sharp_Projects/tree/main/Object_Methods_SET_GET_Practice)
+  - [Resteraunt Menu](https://github.com/ParseTK/C_Sharp_Projects/tree/main/Inheritance_Practice)
   - [Place Holder]()
 - <b>Python</b>
   - [6 Sided Dice Roller](https://github.com/ParseTK/pythonProjects/blob/main/Dice_Roller.py)
