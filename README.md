@@ -1,11 +1,47 @@
-- 👋 Hi, I’m @ParseTK
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#, Python
-- 💞️ I’m looking to collaborate on Apps/Games
-- 📫 How to reach me Discord
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/ParseTK">Programmer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>JavaScript</b>
+  - [Place Holder]()
+- <b>SQL</b>
+  - [Place Holder]()
+- <b>BASH</b>
+  - [Place Holder]()
+  - [Place Holder)]()
+  - [Place Holder]()
+  - [Place Holder)]()
+- <b>C# (.NET Applications)</b>
+  - [Place Holder]()
+  - [Place Holder]()
+  - [Place Holder]()
+- <b>Python</b>
+  - [6 Sided Dice Roller](https://github.com/ParseTK/pythonProjects/blob/main/Dice_Roller.py)
+  - [Compound Interest Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Compound_Loop.py)
+  - [Educational Grade Analyzer](https://github.com/ParseTK/pythonProjects/blob/main/Grade_Analyzer.py)
+  - [Loan Approval Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Loan_Approval.py)
+  - [Paint Job Estimator](https://github.com/ParseTK/pythonProjects/blob/main/Paint%20Job.py)
+  - [Real-Estate Commission Calculaator](https://github.com/ParseTK/pythonProjects/blob/main/RE-Analyzer.py)
+   
+<h2> 🎓 Education and Certifications:</h2>
+
+<b>Certificates:</b>
+
+- [Agile Principles & Methodolgies](https://github.com/user-attachments/assets/49e73d34-6d5b-4d1a-a196-8a55dc3864aa)
+- [AWS Cloud Automation & Managed Services](https://github.com/user-attachments/assets/6695014e-79c6-47a3-9798-9b955faf55a6)
+- [AWS Cloud Shared Responsibility & Compliance](https://github.com/user-attachments/assets/8fc42878-32d6-45d2-8d3e-5994baea5170)
+- [Migration to the AWS Cloud & Cloud Economics](https://github.com/user-attachments/assets/12432ee7-33ff-4784-89a9-42b3a1b79528)
+
+ 
+
+<h2> 🤳 Connect with me:</h2>
 
 
-<!---
-ParseTK/ParseTK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img align="left" alt="Tyler| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/lineageos.svg" />][linkedin]
+
+[<img align="left" alt="Tyler| Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/opera.svg" />][Website]
+
+
+[Website]: https://parsetk.github.io/portfolio/
+[linkedin]: www.linkedin.com/in/parsetk
+
