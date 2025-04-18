@@ -17,7 +17,7 @@
   - [Educational Grade Analyzer](https://github.com/ParseTK/pythonProjects/blob/main/Grade_Analyzer.py)
   - [Loan Approval Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Loan_Approval.py)
   - [Paint Job Estimator](https://github.com/ParseTK/pythonProjects/blob/main/Paint%20Job.py)
-  - [Real-Estate Commission Calculaator](https://github.com/ParseTK/pythonProjects/blob/main/RE-Analyzer.py)
+  - [Real-Estate Commission Calculator](https://github.com/ParseTK/pythonProjects/blob/main/RE-Analyzer.py)
    
 <h2> 🎓 Education and Certifications:</h2>
 
