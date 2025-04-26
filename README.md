@@ -18,6 +18,8 @@
   - [Loan Approval Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Loan_Approval.py)
   - [Paint Job Estimator](https://github.com/ParseTK/pythonProjects/blob/main/Paint%20Job.py)
   - [Real-Estate Commission Calculator](https://github.com/ParseTK/pythonProjects/blob/main/RE-Analyzer.py)
+- <b>Python</b>
+  - [IP/Domain Pinger](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/ping_automation.sh)
    
 <h2> 🎓 Education and Certifications:</h2>
 
