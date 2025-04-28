@@ -19,8 +19,9 @@
   - [Paint Job Estimator](https://github.com/ParseTK/pythonProjects/blob/main/Paint%20Job.py)
   - [Real-Estate Commission Calculator](https://github.com/ParseTK/pythonProjects/blob/main/RE-Analyzer.py)
 - <b>Scripting</b>
-  - [IP/Domain Pinger](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/ping_automation.sh)
-   
+  - [IP/Domain Pinger](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/ping_automation.sh) https://github.com/ParseTK/Bash_Scripts_Win/blob/main/File_Automation.sh
+  - [File Creator](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/File_Automation.sh)
+  - [Directory Creator](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/Create_Directory_Automation.sh)
 <h2> 🎓 Education and Certifications:</h2>
 
 <b>Certificates:</b>
