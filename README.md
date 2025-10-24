@@ -2,23 +2,23 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>REACT</b>
+- <b>⚛️REACT⚛️</b>
   - [Stock Portfolio](https://github.com/ParseTK/FinTk/tree/main/frontend)
   - [React+Tailwind Portfolio](https://github.com/ParseTK/ReactTailwindPortfolio)
-  - [Place Holder]()
-  - [Place Holder)]()
-- <b>C# (.NET Applications)</b>
+  - [🧱Place Holder]()
+  - [🧱Place Holder)]()
+- <b>🧩C# (.NET Applications)🧩</b>
   - [PhotoDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/PhotoDemo.cs)
   - [LetterDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
   - [JobDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/JobDemo.cs)
-- <b>Python</b>
+- <b>🐍Python🐍</b>
   - [6 Sided Dice Roller](https://github.com/ParseTK/pythonProjects/blob/main/Dice_Roller.py)
   - [Compound Interest Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Compound_Loop.py)
   - [Educational Grade Analyzer](https://github.com/ParseTK/pythonProjects/blob/main/Grade_Analyzer.py)
   - [Loan Approval Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Loan_Approval.py)
   - [Paint Job Estimator](https://github.com/ParseTK/pythonProjects/blob/main/Paint%20Job.py)
   - [Real-Estate Commission Calculator](https://github.com/ParseTK/pythonProjects/blob/main/RE-Analyzer.py)
-- <b>Scripting</b>
+- <b>🛠️Scripting🛠️</b>
   - [IP/Domain Pinger](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/ping_automation.sh)
   - [File Creator](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/File_Automation.sh)
   - [Directory Creator](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/Create_Directory_Automation.sh)
