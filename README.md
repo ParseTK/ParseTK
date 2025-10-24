@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>JavaScript</b>
-  - [Grammer Checker/Filter](https://github.com/ParseTK/JS_practice/blob/main/JS_grammarChecker.js)
-  - [Place Holder)]()
+- <b>REACT</b>
+  - [Stock Portfolio](https://github.com/ParseTK/FinTk/tree/main/frontend)
+  - [React+Tailwind Portfolio)](https://github.com/ParseTK/ReactTailwindPortfolio)
   - [Place Holder]()
   - [Place Holder)]()
 - <b>C# (.NET Applications)</b>
-  - [Book Rater](https://github.com/ParseTK/C_Sharp_Projects/tree/main/Object_Methods_SET_GET_Practice)
-  - [Resteraunt Menu](https://github.com/ParseTK/C_Sharp_Projects/tree/main/Inheritance_Practice)
-  - [Place Holder]()
+  - [PhotoDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/PhotoDemo.cs)
+  - [LetterDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
+  - [JobDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/JobDemo.cs)
 - <b>Python</b>
   - [6 Sided Dice Roller](https://github.com/ParseTK/pythonProjects/blob/main/Dice_Roller.py)
   - [Compound Interest Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Compound_Loop.py)
