@@ -4,7 +4,7 @@
 
 - <b>REACT</b>
   - [Stock Portfolio](https://github.com/ParseTK/FinTk/tree/main/frontend)
-  - [React+Tailwind Portfolio)](https://github.com/ParseTK/ReactTailwindPortfolio)
+  - [React+Tailwind Portfolio](https://github.com/ParseTK/ReactTailwindPortfolio)
   - [Place Holder]()
   - [Place Holder)]()
 - <b>C# (.NET Applications)</b>
