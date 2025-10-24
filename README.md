@@ -31,7 +31,10 @@
 - [AWS Cloud Shared Responsibility & Compliance](https://github.com/user-attachments/assets/8fc42878-32d6-45d2-8d3e-5994baea5170)
 - [Migration to the AWS Cloud & Cloud Economics](https://github.com/user-attachments/assets/12432ee7-33ff-4784-89a9-42b3a1b79528)
 
- 
+ <div align="center">
+  <h2>📈 My GitHub Activity</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParseTK&show_icons=true&theme=radical" />
+</div>
 
 <h2> 🤳 Connect with me:</h2>
 
