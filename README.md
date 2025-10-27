@@ -44,6 +44,6 @@
 [<img align="left" alt="Tyler| Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/opera.svg" />][Website]
 
 
-[Website]: https://parsetk.github.io/portfolio/
+[Website]: https://parsetk.github.io/
 [linkedin]: www.linkedin.com/in/parsetk
 
