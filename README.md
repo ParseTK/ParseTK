@@ -8,14 +8,14 @@
   - [🧱Place Holder]()
   - [🧱Place Holder)]()
 - <b>🧩C# (.NET Applications)🧩</b>
-  - [PhotoDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/PhotoDemo.cs)
-  - [LetterDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
+  - [Web API + Docker Compose]([https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/PhotoDemo.cs](https://github.com/ParseTK/NinjaDB))
+  - [DDD - SalesLedger EFCore FLEXIBLE](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
   - [JobDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/JobDemo.cs)
 - <b>🐍Python🐍</b>
-  - [6 Sided Dice Roller](https://github.com/ParseTK/pythonProjects/blob/main/Dice_Roller.py)
+  - [Mutex_Usernames](https://github.com/ParseTK/pythonProjects/blob/main/Username_ThreadSafeCache.py)
   - [Compound Interest Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Compound_Loop.py)
   - [Educational Grade Analyzer](https://github.com/ParseTK/pythonProjects/blob/main/Grade_Analyzer.py)
-  - [Loan Approval Calculator](https://github.com/ParseTK/pythonProjects/blob/main/Loan_Approval.py)
+  - [Pydantic + Json Planets](https://github.com/ParseTK/pythonProjects/blob/main/PydanticPlanetJson.py)
   - [Paint Job Estimator](https://github.com/ParseTK/pythonProjects/blob/main/Paint%20Job.py)
   - [Real-Estate Commission Calculator](https://github.com/ParseTK/pythonProjects/blob/main/RE-Analyzer.py)
 - <b>🛠️Scripting🛠️</b>
