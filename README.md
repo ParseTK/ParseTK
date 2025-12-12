@@ -8,7 +8,7 @@
   - [🧱Place Holder]()
   - [🧱Place Holder)]()
 - <b>🧩C# (.NET Applications)🧩</b>
-  - [Web API + Docker Compose]([https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/PhotoDemo.cs](https://github.com/ParseTK/NinjaDB))
+  - [Web API + Docker Compose](https://github.com/ParseTK/NinjaDB)
   - [DDD - SalesLedger EFCore FLEXIBLE](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
   - [JobDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/JobDemo.cs)
 - <b>🐍Python🐍</b>
