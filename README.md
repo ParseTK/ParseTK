@@ -12,7 +12,7 @@
   - [DDD - SalesLedger EFCore FLEXIBLE](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
   - [JobDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/JobDemo.cs)
 - <b>🐍Python🐍</b>
-  - [Mutex_Usernames](https://github.com/ParseTK/pythonProjects/blob/main/Username_ThreadSafeCache.py)
+  
   
 - <b>🛠️Scripting🛠️</b>
   - [IP/Domain Pinger](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/ping_automation.sh)
