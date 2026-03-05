@@ -7,12 +7,14 @@
   - [React+Tailwind Portfolio](https://github.com/ParseTK/ReactTailwindPortfolio)
   - [🧱Place Holder]()
   - [🧱Place Holder)]()
+- <b>🧪Java🧪</b>
+  - [Pet Project](https://github.com/ParseTK/JavaProjects/tree/main/PetProject)
 - <b>🧩C# (.NET Applications)🧩</b>
   - [Web API + Docker Compose](https://github.com/ParseTK/NinjaDB)
   - [DDD - SalesLedger EFCore FLEXIBLE](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
   - [JobDemo](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/JobDemo.cs)
 - <b>🐍Python🐍</b>
-  
+  - [Password Validation Package](https://github.com/ParseTK/Python2-PasswordValidator)
   
 - <b>🛠️Scripting🛠️</b>
   - [IP/Domain Pinger](https://github.com/ParseTK/Bash_Scripts_Win/blob/main/ping_automation.sh)
