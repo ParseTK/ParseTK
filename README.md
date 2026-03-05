@@ -8,7 +8,7 @@
   - [🧱Place Holder]()
   - [🧱Place Holder)]()
 - <b>🧪Java🧪</b>
-  - [Pet Project](https://github.com/ParseTK/JavaProjects/tree/main/PetProject)
+  - [Pet Project W/ GUI](https://github.com/ParseTK/JavaProjects/tree/main/PetProject)
 - <b>🧩C# (.NET Applications)🧩</b>
   - [Web API + Docker Compose](https://github.com/ParseTK/NinjaDB)
   - [DDD - SalesLedger EFCore FLEXIBLE](https://github.com/ParseTK/C_Sharp_Projects/blob/main/CSharpExercises/LetterDemo.cs)
